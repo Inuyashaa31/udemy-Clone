@@ -16,8 +16,8 @@ function Login() {
                     autoplay></dotlottie-player>
                 </div>
                 <div className='flex flex-col py-20 gap-10 '>
-                    <a className='px-12 text-tertiary font-extrabold text-3xl'>Log in to your Udemy account</a>
-                    <div className='flex flex-col gap-6' >
+                    <a className='px-15 text-tertiary font-extrabold text-3xl'>Log in to your Udemy Account</a>
+                    <div className='flex flex-col gap-6 w-[470px]' >
                     <input 
                         className='flex px-5 py-5 w-full border-tertiary border-2 text-tertiary'
                         placeholder='Email'
@@ -35,11 +35,11 @@ function Login() {
                         >
                     Log in
                     </button>
-                    <div className='flex items-center justify-center gap-4'>
-                    <div className='flex items-center w-60 h-[1px]  bg-tertiary'>
+                    <div className='flex items-center justify-center gap-2'>
+                    <div className='flex w-60 h-[1px]  bg-tertiary'>
 
                     </div>
-                    <p className='text-tertiary'>Other log in options</p>
+                    <p className='text-tertiary text-center'>Other log in options</p>
                     <div className='flex items-center w-60 h-[1px] bg-tertiary'>
 
                      </div>

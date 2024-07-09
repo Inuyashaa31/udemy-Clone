@@ -9,7 +9,7 @@ import Premium from './premium'
 
 function Home() {
   return (
-    <div className='flex flex-col sm:w-auto'>
+    <div className='flex flex-col sm:w-full'>
         <Header/>
         <div className=' flex flex-col gap-y-12 sm:w-full '>
             <Slider/>

@@ -1,5 +1,6 @@
 export const wdcourses = [
     {
+        _id: "",
         main:"Web Development",
         image:"https://plus.unsplash.com/premium_vector-1713913589831-611a54b0641c?q=80&w=1954&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         title: "The Complete 2024 Web Development",
@@ -8,7 +9,8 @@ export const wdcourses = [
         views: "388,213",
         price: "3,099",
     },
-    {
+    {   
+        _id: "",
         main:"IT Certifications",
         image:"https://plus.unsplash.com/premium_vector-1711987659854-3f0edf6f6c52?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         title: "The Web Developer Bootchamp 2024",
@@ -17,7 +19,8 @@ export const wdcourses = [
         views: "273,757",
         price: "3,499",
     },
-    {
+    {   
+        _id: "",
         main:"Leadership",
         image:"https://plus.unsplash.com/premium_vector-1682310664746-f934119dffd6?q=80&w=2028&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         title: "Web Development Master - Online course certificate",
@@ -27,6 +30,7 @@ export const wdcourses = [
         price: "3,099",
     },
     {
+        _id: "",
         main:"Data Science",
         image:"https://plus.unsplash.com/premium_vector-1682269498466-be10e63aaa8a?q=80&w=1966&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         title: "Practical Web Development: 22 courses in one",
@@ -36,6 +40,7 @@ export const wdcourses = [
         price: "3,699",
     },
     {
+        _id: "",
         main:"Communication",
         image:"https://plus.unsplash.com/premium_vector-1682299635821-ba03e8c5a94d?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         title: "Practical Web Development: 22 courses in one",
@@ -45,6 +50,7 @@ export const wdcourses = [
         price: "3,699",
     },
     {
+        _id: "",
         main:"Business Analytics & Intelligence",
         image:"https://plus.unsplash.com/premium_vector-1711987810156-4793e4aa786e?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         title: "Practical Web Development: 22 courses in one",

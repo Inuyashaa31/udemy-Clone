@@ -18,8 +18,8 @@ const Header = () => {
   };
 
   return (
-    <header className="flex justify-between items-center p-4 border-b shadow-xl sm:w-full sm:p-4 ">
-      <div className="flex items-center space-x-4 sm:w-auto mb-4 sm:mb-0 sm:space-x-4">
+    <header className="flex justify-between items-center p-4 border-b shadow-xl sm:w-full">
+      <div className="flex items-center space-x-4 sm:w-auto mb-4 sm:mb-0 ">
         <img src="https://cdn2.downdetector.com/static/uploads/logo/UDEMY_3_ymWlISr.png"  alt="Udemy Logo" 
         onClick={() => navigate("/")}
         className="h-12 cursor-pointer" />

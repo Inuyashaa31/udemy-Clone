@@ -18,10 +18,6 @@ const includedFeaturess = [
 const includedFeaturesss = [
     'Access to 25,000+ top courses',
     'Certification prep',
-    'Goal-focused recommendations',
-    'AI-powered coding exercises',
-    'Advanced analytics and insights',
-    'Dedicated customer success team',
     'International course collection featuring 15 languages',
     'Customizable content',
     'Hands-on tech training with add-on',
